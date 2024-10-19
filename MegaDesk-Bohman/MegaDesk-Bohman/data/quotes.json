@@ -1,0 +1,206 @@
+[
+  {
+    "customerName": "test 2",
+    "deskDetails": {
+      "width": 24,
+      "depth": 12,
+      "numDrawers": 0,
+      "material": 4
+    },
+    "orderTimeFrame": 3,
+    "quotePrice": 325,
+    "quoteDate": "2024-10-09T21:12:45.2329408+02:00"
+  },
+  {
+    "customerName": "test 3",
+    "deskDetails": {
+      "width": 35,
+      "depth": 35,
+      "numDrawers": 2,
+      "material": 3
+    },
+    "orderTimeFrame": 0,
+    "quotePrice": 895,
+    "quoteDate": "2024-10-09T21:13:01.0517642+02:00"
+  },
+  {
+    "customerName": "My Company",
+    "deskDetails": {
+      "width": 48,
+      "depth": 24,
+      "numDrawers": 4,
+      "material": 0
+    },
+    "orderTimeFrame": 1,
+    "quotePrice": 802,
+    "quoteDate": "2024-10-13T21:41:23.3404584+02:00"
+  },
+  {
+    "customerName": "Test Company",
+    "deskDetails": {
+      "width": 80,
+      "depth": 36,
+      "numDrawers": 4,
+      "material": 1
+    },
+    "orderTimeFrame": 3,
+    "quotePrice": 2380,
+    "quoteDate": "2024-10-15T18:55:42.1759079+02:00"
+  },
+  {
+    "customerName": "Default Company",
+    "deskDetails": {
+      "width": 24,
+      "depth": 12,
+      "numDrawers": 0,
+      "material": 4
+    },
+    "orderTimeFrame": 3,
+    "quotePrice": 325,
+    "quoteDate": "2024-10-15T19:12:02.4369788+02:00"
+  },
+  {
+    "customerName": "Me",
+    "deskDetails": {
+      "width": 24,
+      "depth": 12,
+      "numDrawers": 0,
+      "material": 2
+    },
+    "orderTimeFrame": 1,
+    "quotePrice": 290,
+    "quoteDate": "2024-10-15T21:09:05.205443+02:00"
+  },
+  {
+    "customerName": "High Value Company",
+    "deskDetails": {
+      "width": 96,
+      "depth": 48,
+      "numDrawers": 7,
+      "material": 3
+    },
+    "orderTimeFrame": 0,
+    "quotePrice": 4538,
+    "quoteDate": "2024-10-15T21:21:06.0357917+02:00"
+  },
+  {
+    "customerName": "Small Company",
+    "deskDetails": {
+      "width": 60,
+      "depth": 24,
+      "numDrawers": 2,
+      "material": 2
+    },
+    "orderTimeFrame": 3,
+    "quotePrice": 790,
+    "quoteDate": "2024-10-15T21:26:50.3886458+02:00"
+  },
+  {
+    "customerName": "Memory Bank",
+    "deskDetails": {
+      "width": 64,
+      "depth": 36,
+      "numDrawers": 4,
+      "material": 0
+    },
+    "orderTimeFrame": 2,
+    "quotePrice": 1944,
+    "quoteDate": "2024-10-15T22:27:18.3764237+02:00"
+  },
+  {
+    "customerName": "Timothy",
+    "deskDetails": {
+      "width": 72,
+      "depth": 36,
+      "numDrawers": 3,
+      "material": 0
+    },
+    "orderTimeFrame": 2,
+    "quotePrice": 2182,
+    "quoteDate": "2024-10-16T03:28:28.1955884+02:00"
+  },
+  {
+    "customerName": "Titan",
+    "deskDetails": {
+      "width": 94,
+      "depth": 46,
+      "numDrawers": 6,
+      "material": 2
+    },
+    "orderTimeFrame": 0,
+    "quotePrice": 3954,
+    "quoteDate": "2024-10-16T04:36:07.3265917+02:00"
+  },
+  {
+    "customerName": "Henry George Jacobson",
+    "deskDetails": {
+      "width": 58,
+      "depth": 36,
+      "numDrawers": 7,
+      "material": 3
+    },
+    "orderTimeFrame": 3,
+    "quotePrice": 1938,
+    "quoteDate": "2024-10-17T05:33:47.8296322+02:00"
+  },
+  {
+    "customerName": "Lana Lang",
+    "deskDetails": {
+      "width": 60,
+      "depth": 40,
+      "numDrawers": 5,
+      "material": 0
+    },
+    "orderTimeFrame": 0,
+    "quotePrice": 2130,
+    "quoteDate": "2024-10-17T05:37:46.5918543+02:00"
+  },
+  {
+    "customerName": "Minerals, Inc.",
+    "deskDetails": {
+      "width": 68,
+      "depth": 40,
+      "numDrawers": 5,
+      "material": 3
+    },
+    "orderTimeFrame": 2,
+    "quotePrice": 2510,
+    "quoteDate": "2024-10-17T05:56:50.9691701+02:00"
+  },
+  {
+    "customerName": "Irineu test",
+    "deskDetails": {
+      "width": 50,
+      "depth": 20,
+      "numDrawers": 3,
+      "material": 2
+    },
+    "orderTimeFrame": 0,
+    "quotePrice": 460,
+    "quoteDate": "2024-10-17T23:07:11.4398887+02:00"
+  },
+  {
+    "customerName": "test Iri 3",
+    "deskDetails": {
+      "width": 50,
+      "depth": 20,
+      "numDrawers": 3,
+      "material": 2
+    },
+    "orderTimeFrame": 2,
+    "quotePrice": 430,
+    "quoteDate": "2024-10-17T23:12:07.7889179+02:00"
+  },
+  {
+    "customerName": "last test rush",
+    "deskDetails": {
+      "width": 80,
+      "depth": 12,
+      "numDrawers": 4,
+      "material": 3
+    },
+    "orderTimeFrame": 1,
+    "quotePrice": 740,
+    "quoteDate": "2024-10-17T23:20:33.8597059+02:00"
+  }
+]
